@@ -1,2 +1,2 @@
 # SalesforceProject
-Repository to store and manage sourc code of the project.
+Repository to store and manage source code of the project.
